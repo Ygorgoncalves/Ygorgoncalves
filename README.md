@@ -14,6 +14,9 @@
   <img align="center alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
 </div>
+                                                                                                                                              
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorgoncalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 Desenvolvendo minhas habilidades utilizando tecnologias como HTML, CSS e JavaScript, deixando de lado minhas lentes e agora clicando somente em linhas de código.
