@@ -23,5 +23,5 @@ Desenvolvendo minhas habilidades utilizando tecnologias como HTML, CSS e JavaScr
 
 ygoroliveiracontato@gmail.com
 
-![snake gif](https://github.com/Ygorgoncalves/Ygorgoncalves/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ygorgoncalves/Ygorgoncalves/blob/output/github-contribution-grid-snake.svg)
 
